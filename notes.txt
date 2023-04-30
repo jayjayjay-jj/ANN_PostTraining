@@ -1,0 +1,19 @@
+Dear All,
+
+Artificial Neural Network Post Training will be held on April 29, 2023, from 09.00 to 15.00 WIB. You can check the details at academic.slc.
+Please prepare the required software as follows:
+- Python 3.7.6
+https://binusianorg-my.sharepoint.com/personal/slc_na_binus_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=Vu%2f2ognmFQl2SvxCnL9gs4GzNbWQV0W63iz4HHIm%2bjU%3d&folderid=2_0f0c2e16fdbdb40e9ad35d2bb81bcd271&rev=1
+- OpenCV 4.6.0.66
+- SciKit 0.23.1
+- SciPy 1.4.1
+- TensorFlow 1.15.3
+- Visual Studio Code
+
+Room: 621 (for 22-2 & 23-1 KMG)
+Link Zoom:
+https://binus.zoom.us/j/99541020869?pwd=Q1lYbFdSbUtiSjNGUmx3VWVTWlFvQT09
+
+If you have any questions or conflicting schedules, please contact LT / JT.
+
+Thank you :D
